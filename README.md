@@ -3,7 +3,7 @@
 A working FastAPI backend for the exact job most small businesses describe:
 **clients → jobs → invoices, with a live outstanding balance.**
 
-Built as a portfolio sample by **Terrell Hall** (Victoria, BC) — the same stack I use for
+Built as a portfolio sample by **Terrell Hall** at **Elitze Agentic Security** (Victoria, BC) — the same stack I use for
 paid automation work. Runs in one container, no external services, no ORM magic.
 
 ```
